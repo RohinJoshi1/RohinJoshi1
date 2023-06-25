@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RohinJoshi1
-- 👀 I’m interested in Artificial Intelligence,mathematics,blockchain and Computer science
-- 🌱 I’m currently learning blockchain and smart contracts
-- 💞️ I’m looking to collaborate on projects related to applications of blockchain or mathematics
+
 - 📫 How to reach me Email ID:Rrohiinujoshi@gmail.com
 
 <!---
