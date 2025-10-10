@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohin Joshi
 
-- 📫 How to reach me Email ID:rohenjoshi00@gmail.com
+- 📫 How to reach me Email ID:rohinj@andrew.cmu.edu
 
 <!---
 RohinJoshi1/RohinJoshi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
